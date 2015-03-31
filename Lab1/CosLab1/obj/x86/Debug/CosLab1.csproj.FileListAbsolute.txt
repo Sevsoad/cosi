@@ -1,0 +1,8 @@
+D:\Projects\cosi-master\Lab1\CosLab1\bin\Debug\CosLab1.exe
+D:\Projects\cosi-master\Lab1\CosLab1\bin\Debug\CosLab1.pdb
+D:\Projects\cosi-master\Lab1\CosLab1\obj\x86\Debug\CosLab1.csprojResolveAssemblyReference.cache
+D:\Projects\cosi-master\Lab1\CosLab1\obj\x86\Debug\CosLab1.Form1.resources
+D:\Projects\cosi-master\Lab1\CosLab1\obj\x86\Debug\CosLab1.Properties.Resources.resources
+D:\Projects\cosi-master\Lab1\CosLab1\obj\x86\Debug\CosLab1.csproj.GenerateResource.Cache
+D:\Projects\cosi-master\Lab1\CosLab1\obj\x86\Debug\CosLab1.exe
+D:\Projects\cosi-master\Lab1\CosLab1\obj\x86\Debug\CosLab1.pdb
